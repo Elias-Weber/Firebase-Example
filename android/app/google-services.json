@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "838705888045",
+    "firebase_url": "https://flutterfiretest-39cb9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutterfiretest-39cb9",
+    "storage_bucket": "flutterfiretest-39cb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838705888045:android:fa0c366c44972edc9bf1a4",
+        "android_client_info": {
+          "package_name": "ch.eliasweber.firebase_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838705888045-mh7cafre3jepoaulna6mde0h44aerie1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXow0INDht6aSsznDYcY3klwUBF13Vzlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838705888045-mh7cafre3jepoaulna6mde0h44aerie1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838705888045-co4p3pgv3nd03rdfpd600k28o6j7g0fv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eliasweber.firebaseExampleApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
